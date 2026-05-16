@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+shapely
+pyproj
+requests
+geopandas
+urllib3
